@@ -1,4 +1,4 @@
-// src/components/MarineEnv.js
+// src/pages/MarineEnv.js
 import React from 'react';
 
 function MarineEnv() {
