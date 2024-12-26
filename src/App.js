@@ -5,12 +5,12 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import GettingStarted from './pages/GettingStarted';
 import Planning from './pages/Planning';
-import TropicalEnv from './pages/TropicalEnv';  // Import the component for Tropical environment
-import TemperateEnv from './pages/TemperateEnv';  // Import the component for Temperate environment
-import MountainEnv from './pages/MountainEnv';  // Import the component for Mountain environment
-import DesertEnv from './pages/DesertEnv';  // Import the component for Desert environment
-import ColdEnv from './pages/ColdEnv';  // Import the component for Cold environment
-import MarineEnv from './pages/MarineEnv';  // Import the component for Marine environment
+import TropicalEnv from './pages/TropicalEnv';  
+import TemperateEnv from './pages/TemperateEnv';  
+import MountainEnv from './pages/MountainEnv';
+import DesertEnv from './pages/DesertEnv';
+import ColdEnv from './pages/ColdEnv';
+import MarineEnv from './pages/MarineEnv';
 import SurvivalTips from './pages/SurvivalTips';
 import SurvivalKit from './pages/SurvivalKit'; 
 
