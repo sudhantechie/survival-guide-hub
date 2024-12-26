@@ -1,4 +1,4 @@
-// src/components/Planning.js
+// src/pages/Planning.js
 import React from 'react';
 
 function Planning() {
