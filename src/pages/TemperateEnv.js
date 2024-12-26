@@ -1,4 +1,4 @@
-// src/components/TemperateEnv.js
+// src/pages/TemperateEnv.js
 import React from 'react';
 
 function TemperateEnv() {
