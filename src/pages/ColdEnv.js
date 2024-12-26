@@ -1,4 +1,4 @@
-// src/components/ColdEnv.js
+// src/pages/ColdEnv.js
 import React from 'react';
 
 function ColdEnv() {
