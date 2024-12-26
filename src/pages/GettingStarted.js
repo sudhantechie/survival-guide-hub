@@ -1,4 +1,4 @@
-// src/App.js
+// src/pages/GettingStarted.js
 import React from 'react';
 
 
