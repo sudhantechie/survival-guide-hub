@@ -1,4 +1,4 @@
-// src/components/DesertEnv.js
+// src/pages/DesertEnv.js
 import React from 'react';
 
 function DesertEnv() {
