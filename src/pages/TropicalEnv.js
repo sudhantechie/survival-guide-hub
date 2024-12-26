@@ -1,4 +1,4 @@
-// src/components/TropicalEnv.js
+// src/pages/TropicalEnv.js
 import React from 'react';
 
 function TropicalEnv() {
