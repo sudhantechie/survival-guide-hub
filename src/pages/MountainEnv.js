@@ -1,4 +1,4 @@
-// src/components/MountainEnv.js
+// src/pages/MountainEnv.js
 import React from 'react';
 
 function MountainEnv() {
