@@ -29,12 +29,12 @@ To get a local copy up and running, follow these simple steps.
 1. Clone the repository:
    ```bash
    git clone https://github.com/sudhantechie/survival-guide-hub.git
-2. Navigate to the Project Directory
+2. Navigate to the Directory
    ```bash
    cd survival-guide-hub
 3. Install Dependencies
    ```bash
    npm install
-4. Run the Project
+4. Run the Server
     ```bash
     npm start
