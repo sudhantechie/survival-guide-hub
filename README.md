@@ -21,8 +21,8 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-- Node.js (latest LTS version recommended)
-- npm (comes with Node.js)
+- **[Node.js](https://nodejs.org/)** (latest LTS version recommended)
+- **[npm](https://www.npmjs.com/)** (comes with Node.js)
 
 ### Steps
 
